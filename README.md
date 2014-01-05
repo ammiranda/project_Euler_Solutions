@@ -1,0 +1,1 @@
+My working solutions to [Project Euler](http://projecteuler.net/about) problems.  My solutions are numbered according to how the problems on the site are numbered.  For example my solution to problem one is called: solution1.js  Enjoy!
